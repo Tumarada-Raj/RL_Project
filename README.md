@@ -6,8 +6,8 @@ It contains a policy gradient algorithm variant called Actor-Critic algorithm to
 The project borrows ideas from the following githubs:
 
 https://mengxinji.github.io/Blog/2019-04-08/Actor-Critic/
-
 https://github.com/ShangtongZhang/DeepRL/tree/master/deep_rl
+
 https://medium.com/geekculture/actor-critic-implementing-actor-critic-methods-82efb998c273
 https://github.com/pytorch/examples/blob/main/reinforcement_learning/actor_critic.py
 
